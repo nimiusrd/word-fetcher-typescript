@@ -230,7 +230,7 @@ module.exports = {
     'require-await'        : 'error',
     'rest-spread-spacing'  : ['error', 'always'],
     'semi-spacing'         : 'error',
-    'semi'                 : ['error', 'always'],
+    'semi'                 : ['error', 'never'],
     'sort-imports'         : ['warn', {
       'ignoreCase'           : false,
       'ignoreMemberSort'     : false,
