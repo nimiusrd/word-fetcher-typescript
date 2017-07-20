@@ -8,10 +8,12 @@
   "author": "Yudai Udagawa <nimius.rd@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "ava": "^0.21.0",
     "eslint": "^4.2.0",
     "typescript-eslint-parser": "^4.0.0"
   },
   "scripts": {
-      "build": "tsc"
+    "build": "tsc",
+    "test": "tsc && ava"
   }
 }
