@@ -10,5 +10,8 @@
   "devDependencies": {
     "eslint": "^4.2.0",
     "typescript-eslint-parser": "^4.0.0"
+  },
+  "scripts": {
+      "build": "tsc"
   }
 }
