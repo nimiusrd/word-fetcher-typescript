@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "typescript": "^2.4.2"
+  },
+  "name": "word-fetcher-typescript",
+  "version": "1.0.0",
+  "repository": "git@github.com:nimiusrd/word-fetcher-typescript.git",
+  "author": "Yudai Udagawa <nimius.rd@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "typescript-eslint-parser": "^4.0.0"
+  }
+}
